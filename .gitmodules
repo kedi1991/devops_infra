@@ -1,0 +1,6 @@
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/kedi1991/microservices_03_2026.git
+[submodule "order-service"]
+	path = order-service
+	url = https://github.com/kedi1991/order-service.git
